@@ -1,9 +1,4 @@
-import sys
-
-
 from collections import defaultdict
-import re
-#import numpy as np
 
 # 経路と距離を保存
 g_max_path,g_max_dist=[],0
